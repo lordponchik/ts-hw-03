@@ -5,7 +5,6 @@ type CountTotalSalary = (employees: {}) => number;
 
 const countTotalSalary: CountTotalSalary = function (employees) {
   return Object.values(employees).reduce((sum: number, el) => {
-    console.log(typeof el);
     return (sum += el as number);
   }, 0);
 };
