@@ -1,3 +1,6 @@
+console.log('task-05');
+console.log('');
+
 type Products = {
   name: string;
   price: number;
