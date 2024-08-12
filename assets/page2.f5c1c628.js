@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.c7c6310f.js";console.log("task-02");const o=function(n){return Object.keys(n).length};console.log(o({}));console.log(o({name:"Mango",age:2}));console.log(o({mail:"poly@mail.com",isOnline:!0,score:500}));

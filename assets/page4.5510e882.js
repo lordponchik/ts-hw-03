@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.c7c6310f.js";console.log("task-04");console.log("");const o=function(l){return Object.values(l).reduce((e,n)=>e+=n,0)};console.log(o({}));console.log(o({mango:100,poly:150,alfred:80}));console.log(o({kiwi:200,lux:50,chelsy:150}));

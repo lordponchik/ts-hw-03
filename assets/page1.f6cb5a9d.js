@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.c7c6310f.js";console.log("task-01");const o={name:"Mango",age:20,hobby:"html",premium:!0};o.mood="happy";o.hobby="skydiving";o.premium=!1;const s=Object.keys(o);for(const e of s)console.log(`${e}: ${o[e]}`);

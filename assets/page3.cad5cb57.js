@@ -1,0 +1,1 @@
+import"./modulepreload-polyfill.c7c6310f.js";console.log("task-03");console.log("");const o=function(e){const l=Object.keys(e),n=Object.values(e);return l[n.indexOf(Math.max(...n))]};console.log(o({ann:29,david:35,helen:1,lorence:99}));console.log(o({poly:12,mango:17,ajax:4}));console.log(o({lux:147,david:21,kiwi:19,chelsy:38}));
